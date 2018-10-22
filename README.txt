@@ -1,0 +1,1 @@
+Download the "microbiome_tutorial" directory to the Desktop of any Mac. Lecture slides, etc are in the microbiome_tutorial/slides/ directory. Look at "microbiome_tutorial.html" or "microbiome_tutorial.Rmd"
